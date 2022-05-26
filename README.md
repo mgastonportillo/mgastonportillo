@@ -2,10 +2,6 @@
 <p align="center">ó, como muchos me conocen, <b>gale</b></p>
 <h2 align="center"><i>Y HAGO LO QUE ME APASIONA</i></h2>
 <hr>
-<h3>¿Por qué "gale"?</h3>
-Porque gale es el inglés para <i>vendaval</i>, un viento imparable. Como mi voluntad.<br>
-Por eso, y por un par de motivos más.
-<br>
 <h3>¿Y qué es eso que me apasiona?</h3>
 <ul>
   <li>El poder de comunicar la información eficientemente que brinda el diseño</li>
