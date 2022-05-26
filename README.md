@@ -10,7 +10,7 @@ Por eso, y por un par de motivos más.
 <ul>
   <li>El poder de comunicar la información eficientemente que brinda el diseño</li>
   <li>La potencialidad creativa y de resolución de problemas que ofrece la programación</li>
-  <li>La informática en general, la tecnología, el universo, Steins Gate </li>
+  <li>La informática en general, el conocimiento, el universo, Steins Gate </li>
 </ul>
 <hr>
 <h5>Ah, también hablo inglés y me estoy formando como analista de datos.</p>
