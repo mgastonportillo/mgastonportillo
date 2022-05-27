@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"> Hola, soy Gastón</h2>
+## <p align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"> <b>Hola, soy Gastón</b></p>
 <p align="center">ó, como muchos me conocen, <b>gale</b></p><br>
 <p align="center"><img src="https://i.imgur.com/HHEVhch.png" height="50px" width=""><p>
 <hr>
@@ -9,7 +9,7 @@
   <li>La informática en general, el conocimiento, el universo, Steins Gate </li>
 </ul>
 <hr>
-<h5>Ah, también hablo inglés y me estoy formando como analista de datos.</p>
+<sub><sup>Ah, también hablo inglés y me estoy formando como analista de datos.</sup></sub>
 <!---
 Notas
 --->
