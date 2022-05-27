@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/XvLw4X1.png" height="150px" width="150px"><p>
 <h2 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"> Hola, soy Gastón</h2>
 <p align="center">ó, como muchos me conocen, <b>gale</b></p>
 <h2 align="center"><i>Y HAGO LO QUE ME APASIONA</i></h2>
