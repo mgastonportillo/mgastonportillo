@@ -1,15 +1,15 @@
-## <p align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"> <b>Hola, soy Gastón</b></p>
-<p align="center">ó, como muchos me conocen, <b>gale</b></p><br>
+## <p align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"> <b>Hi, I'm, Gastón</b></p>
+<p align="center">or, as many know me, <b>gale</b></p><br>
 <p align="center"><img src="https://i.imgur.com/HHEVhch.png" height="50px" width=""><p>
 <hr>
-<h3>¿Y qué es eso que me apasiona?</h3>
+<h3>And what is that I'm passionate about?</h3>
 <ul>
-  <li>El poder de comunicar la información eficientemente que brinda el diseño</li>
-  <li>La potencialidad creativa y de resolución de problemas que ofrece la programación</li>
-  <li>La informática en general, el conocimiento, el universo, Steins Gate </li>
+  <li>Being able to comunicate information efficiently through design</li>
+  <li>Getting creative and solving problems with programming tools</li>
+  <li>Everything technology, knowledge, the universe, Steins Gate</li>
 </ul>
 <hr>
-<sub><sup>Ah, también hablo inglés y me estoy formando como analista de datos.</sup></sub>
+<sub><sup>Ah, I'm also studying to become a data analyst.</sup></sub>
 <!---
 Notas
 --->
