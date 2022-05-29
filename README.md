@@ -1,5 +1,5 @@
-## <p align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"> <b>Hi, I'm Gastón</b></p>
-<p align="center">or, as many know me, <b>gale</b></p><br>
+### <p align="center"><b>Well, hello</b> <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"></p>
+<p align="center"><b>I'm Gastón</b>, or as many know me, <b>gale</b></p><br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=500&lines=AND+I+DO+WHAT+I'M+PASSIONATE+ABOUT;I+DO" height="50px" width="100%"></a></p>
 <hr>
 <h3>And what is that I'm passionate about?</h3>
