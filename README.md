@@ -9,7 +9,7 @@
   <li>Everything technology, knowledge, the universe, Steins Gate</li>
 </ul>
 <hr>
-<sub><sup>Ah, I'm also studying to become a data analyst.</sup></sub>
+  <sub><sup>Data analyst in the making.</sup></sub>
 <!---
 Notas
 --->
