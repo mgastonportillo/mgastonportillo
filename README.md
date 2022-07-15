@@ -9,7 +9,7 @@
   <li>Everything technology, knowledge, the universe, Steins Gate</li>
 </ul>
 <hr>
-  <sub><sup>Data analyst in the making.</sup></sub>
+  <sub><sup>I'm a data analyst being constantly teased by graphic design. Also exploring web development.</sup></sub>
 <!---
 Notas
 --->
