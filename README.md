@@ -9,7 +9,7 @@
   <li>Everything technology, knowledge, the universe, Steins Gate</li>
 </ul>
 <hr>
- <p>I'm a data analyst being constantly teased by graphic design. Also exploring web development. <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/star-struck_1f929.png" height="30px" width="30px"></p>
+ <p>I'm a Data Analyst being constantly teased by Graphic Design. Also exploring Web Development. <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/star-struck_1f929.png" height="30px" width="30px"></p>
 <!---
 Notas
 --->
