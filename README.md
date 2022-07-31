@@ -1,4 +1,4 @@
-### <p align="center"><b>Well, hello</b> <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25px" width="25px"></p>
+### <p align="center"><b>Well, hello</b> <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" height="25px" width="25px"></p>
 <p align="center">I'm <b>Gastón</b>, or as many know me, <b>gale</b></p><br>
 <p align="center"><img src="https://i.imgur.com/WhPwbrx.gif" height="50px"></p>
 <hr>
